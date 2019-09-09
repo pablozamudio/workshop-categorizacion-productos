@@ -1,4 +1,4 @@
-# Products Categorization with Deep Learning, using Keras, Tensorflow, Pandas, Numpy, etc
+# Products Categorization Workshop
 Practical content for Products Categorization with Deep Learning Workshop
 
 ## Contents
