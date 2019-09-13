@@ -4,6 +4,7 @@ Practical content for Products Categorization with Deep Learning Workshop
 ## Contents
 - **intro_python_numpy_pandas.ipynb**: a notebook with basic samples of python, numpy & pandas
 - **train_nn_products_categorization.ipynb**, a notebook with a sample NN training, incluiding dataset preparation, builiding, training & evaluation of a sample model.
+- **Products Categorization with Deep Learning.pdf**, slides for the workshop
 
 ## Branches
 - **master**: train_nn_products_categorization.ipynb with solutions for first 1st & 2nd sections (Gather & Explore Data)
