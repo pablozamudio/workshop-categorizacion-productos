@@ -11,4 +11,4 @@ Practical content for Products Categorization with Deep Learning Workshop
 - **solution_c**: train_nn_products_categorization.ipynb with aditional solutions for 4th, 5th & 6th sections (Build, Train & Evaluate Model)
 
 ## Environment
-All notebooks can be run in [Collaboratory(https://colab.research.google.com)] platform and also standalone, as long as you have python 3.6 installed.
+All notebooks can be run in [Collaboratory](https://colab.research.google.com) platform and also standalone, as long as you have python 3.6 installed.
